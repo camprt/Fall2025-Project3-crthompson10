@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fall2025-Project3-crthompson10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4daf92a44781ee9f74bc1a2091de207cdd0081a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb63d2217c8410009b9d044672f3151ac48265b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fall2025-Project3-crthompson10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fall2025-Project3-crthompson10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
