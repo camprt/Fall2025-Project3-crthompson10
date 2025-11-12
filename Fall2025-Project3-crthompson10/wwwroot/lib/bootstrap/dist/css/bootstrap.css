@@ -427,6 +427,7 @@ caption {
 th {
   text-align: inherit;
   text-align: -webkit-match-parent;
+  background-color: rgb(var(--bs-primary-rgb));
 }
 
 thead,
@@ -437,7 +438,7 @@ td,
 th {
   border-color: inherit;
   border-style: solid;
-  border-width: 0;
+  border-width: 2px;
 }
 
 label {

@@ -29,3 +29,14 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+table th{
+    background-color: #eb6864 ! important;
+}
+
+table, th, td {
+    border: 1px solid black ! important;
+}
+
+tr:nth-child(even) {
+    background: #fbe1e0 ! important;}
